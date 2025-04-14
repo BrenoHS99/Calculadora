@@ -1,0 +1,10 @@
+C:\Users\2jd\Desktop\breno e danilo\calculadoradedivisao\calculadoradedivisao\bin\Debug\calculadoradedivisao.exe.config
+C:\Users\2jd\Desktop\breno e danilo\calculadoradedivisao\calculadoradedivisao\bin\Debug\calculadoradedivisao.exe
+C:\Users\2jd\Desktop\breno e danilo\calculadoradedivisao\calculadoradedivisao\bin\Debug\calculadoradedivisao.pdb
+C:\Users\2jd\Desktop\breno e danilo\calculadoradedivisao\calculadoradedivisao\obj\Debug\calculadoradedivisao.csproj.AssemblyReference.cache
+C:\Users\2jd\Desktop\breno e danilo\calculadoradedivisao\calculadoradedivisao\obj\Debug\calculadoradedivisao.frmCalculadora.resources
+C:\Users\2jd\Desktop\breno e danilo\calculadoradedivisao\calculadoradedivisao\obj\Debug\calculadoradedivisao.Properties.Resources.resources
+C:\Users\2jd\Desktop\breno e danilo\calculadoradedivisao\calculadoradedivisao\obj\Debug\calculadoradedivisao.csproj.GenerateResource.cache
+C:\Users\2jd\Desktop\breno e danilo\calculadoradedivisao\calculadoradedivisao\obj\Debug\calculadoradedivisao.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Desktop\breno e danilo\calculadoradedivisao\calculadoradedivisao\obj\Debug\calculadoradedivisao.exe
+C:\Users\2jd\Desktop\breno e danilo\calculadoradedivisao\calculadoradedivisao\obj\Debug\calculadoradedivisao.pdb
